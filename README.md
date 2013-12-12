@@ -1,0 +1,4 @@
+indiacoin
+=========
+
+Cryptocurrency coin
